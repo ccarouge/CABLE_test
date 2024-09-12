@@ -2,10 +2,10 @@ site_name: CABLE Docs
 
 # Needed to generate the canonical_url for each pages that are 
 # then used to create the sitemap for search engine indexing
-site_url: https://cable.readthedocs.io/en/latest/
+site_url: https://cable_test.readthedocs.io/en/latest/
 # Git repository
-repo_url: https://github.com/CABLE-LSM/CABLE
-repo_name: CABLE
+repo_url: https://github.com/ccarouge/CABLE_test
+repo_name: CABLE_test
 # Material default to a "master" branch, need to change to "main"
 edit_uri: edit/main/documentation/docs
 docs_dir: docs
